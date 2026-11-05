@@ -52,8 +52,8 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "Youtube NT Khánh ✨",
-                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
-                    imageURL: "https://i.postimg.cc/mgHPxHMF/Anh-chup-man-hinh-2026-11-05-104713.png"
+                    body: "Nhớ Follow Mình Nhé 💛",
+                    imageURL: "https://i.postimg.cc/L6xBthjP/2c5a9f96-fade-4275-a76a-71406e2fff80.png"
                 }
             ],
             primary_button_title: "Xong",
@@ -377,7 +377,7 @@ if (ua.includes("Locket")) {
         ]),
         overlay_items: JSON.stringify([
             {
-                section: "🎨 General",
+                section: "🎨 Nann Ngốc",
                 items: [
                     { overlay_id: "caption:standard", source: "local", caption: { type: "standard" } },
                     { overlay_id: "caption:review", source: "local", caption: { type: "review" } },
@@ -393,7 +393,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Holiday Caption",
+                section: "🎨 Nann oi",
                 items: [
                     { overlay_id: "caption:halloween_2026", source: "remote", caption: { background: { colors: ["#150804", "#C8540D"] }, icon: { data: "🎃", type: "emoji" }, max_lines: 1, text: "Halloween", localized_text: { en: "Halloween", vn: "Halloween" }, text_color: "#FFB182", type: "static_content" } },
                     { overlay_id: "caption:autumn_2026", source: "remote", caption: { background: { colors: ["#FFE0A0", "#F6A53A"] }, icon: { data: "🍂", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Thu", localized_text: { en: "Xin chào Mùa Thu", vn: "Xin chào Mùa Thu" }, text_color: "#FFFFFF", type: "static_content" } },
@@ -405,10 +405,11 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Duy Vinh",
+                section: "🎨 Decorative by Thach Khanh",
                 items: [
                     { overlay_id: "caption:NMS", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NMS", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
+                    { overlay_id: "caption:Nói chung là khó", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Nói chung là khó 😒", text_color: "#463a7c", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
@@ -441,6 +442,7 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:minh_cuoi_nhau", source: "remote", caption: { background: { colors: ["#F0B8CD", "#F7D4DF", "#E7C9EF"] }, icon: { data: "💍", type: "emoji" }, max_lines: 1, text: "hông ấy mình cưới nhau đi", text_color: "#70465B", type: "static_content" } },
                     { overlay_id: "caption:wedding_time", source: "remote", caption: { background: { colors: ["#FFE4E1", "#E73C7E"] }, icon: { data: "💍", type: "emoji" }, max_lines: 1, text: "Wedding Time!", localized_text: { en: "Wedding Time!", vn: "Đám cưới nè!" }, text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:dating_time", source: "remote", caption: { background: { colors: ["#E91E63", "#F44336"] }, icon: { data: "💕", type: "emoji" }, max_lines: 1, text: "Dating Time!", text_color: "#FFFFFFE6", type: "static_content" } },
+                    { overlay_id: "caption:cam_thay_hanh_phuc", source: "remote", caption: { background: { colors: ["#d34593", "#F8BBD0"] }, icon: { data: "🇻🇳", type: "emoji" }, max_lines: 1, text: "Nhớ a Khánh", localized_text: { en: "Feeling Happy", vn: "Nhớ a Khánh" }, text_color: "#FFFFFFE6", type: "static_content" } }
                     { overlay_id: "caption:cam_thay_hanh_phuc", source: "remote", caption: { background: { colors: ["#EC407A", "#F8BBD0"] }, icon: { data: "🇻🇳", type: "emoji" }, max_lines: 1, text: "Cảm thấy hạnh phúc", localized_text: { en: "Feeling Happy", vn: "Cảm thấy hạnh phúc" }, text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
             },
