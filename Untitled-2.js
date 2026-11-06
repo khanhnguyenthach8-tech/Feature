@@ -53,7 +53,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Youtube Khánh NT ✨",
                     body: "Nhớ Follow Ủng Hộ Mình Nhé 💛",
-                    imageURL: "https://i.postimg.cc/650gnZrD/2c5a9f96-fade-4275-a76a-71406e2fff80.png"
+                    imageURL: "https://i.postimg.cc/J09CsDSg/2c5a9f96-fade-4275-a76a-71406e2fff80-fotor-20261106165224.jpg"
                 }
             ],
             primary_button_title: "Xong",
